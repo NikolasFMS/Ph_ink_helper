@@ -201,11 +201,11 @@ ol {
 }
 
 .button:hover {
-  box-shadow: #121212 0 0 0 0.5vh, transparent 0 0 0 0;
+  box-shadow: #121212 0 0 0 0.1vh, transparent 0 0 0 0;
 }
 
 .button:active {
-  box-shadow: #fff 0 0 0 0.5vh, transparent 0 0 0 0;
+  box-shadow: #fff 0 0 0 0.1vh, transparent 0 0 0 0;
   background-color: #3498db;
   color: #fff;
   border-color: #fff;
