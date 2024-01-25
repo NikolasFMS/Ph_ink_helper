@@ -108,7 +108,9 @@ body {
   padding-right: 1vh;
 }
 
-
+.logo{
+  padding-top: 2vh;
+}
 
 .logo,
 .wordsImg,
